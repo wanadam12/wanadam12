@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @wanadam12
 - 👀 I’m interested in web development and mobile development
 - 🌱 I’m currently learning bachelors of computer science 
-- 💞️ I’m looking to collaborate on 
 - 📫 How to reach me : adamfarhan008@gmail.com
 - 😄 Gender : Male
 
